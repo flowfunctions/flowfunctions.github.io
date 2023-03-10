@@ -1,7 +1,8 @@
-site_name: flowfunctions docs
+site_name: Flow Functions Docs
 
 theme:
   name: material
-
+  font:
+    text: Monserrat
 
 copyright: Copyright &copy; 2023 Transformationflow OÜ (16248096), Estonia

@@ -1,22 +1,11 @@
-# flowfunctions
+# Flow Functions (`flowfunctions`)
 
-The flowfunctions library enables development, management and monitoring of complex and extensible data workflows within the Google BigQuery console.
+The `flowfunctions` library is designed to enable development, management and monitoring of complex and extensible data workflows within the native Google BigQuery environment.
 
 ## Motivation
-- BigQuery is truly awesome technology. It is:
-    - Easy to setup, get started and manage
-    - Cost effective
-    - Infinitely scalable
+Google BigQuery is an amazing foundational technology, with a wide array of features which make it a powerful platform for any kind of data work, for any scale or type of organisation. 
 
-- BigQuery has a broad and expanding feature set:
-    - External tables/BigLake to query data from outside sources
-    - BigQuery ML to do machine learning without moving any data
+However due to some syntactical idiosyncrasies and contraints, it can be difficult to achieve complex tasks in a clear, readable and resusable manner.
 
-## Situation
-
-
-## Solution
-
-## Execution
-
+This library aims to provide a unified, functional abstraction based on the core BigQuery language sets (SQL, DDL, DML, DCL, Scripting, Other) to enable developers to write and reuse powerful, scalable, extensible and maintainable code, to achieve any data objective without requiring any external tools.
 
