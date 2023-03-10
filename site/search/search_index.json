@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"flowfunctions","text":""},{"location":"#motivation","title":"Motivation","text":""},{"location":"#situation","title":"Situation","text":""},{"location":"#solution","title":"Solution","text":""},{"location":"#execution","title":"Execution","text":""}]}
