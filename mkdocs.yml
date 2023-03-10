@@ -1,6 +1,7 @@
-site_name: flowfunctions
+site_name: flowfunctions docs
 
 theme:
   name: material
+
 
 copyright: Copyright &copy; 2023 Transformationflow OÜ (16248096), Estonia
