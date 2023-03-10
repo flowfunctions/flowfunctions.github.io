@@ -1,4 +1,4 @@
-site_name: Flow Functions Docs
+site_name: Flowfunctions Docs
 
 theme:
   name: material
@@ -7,5 +7,8 @@ theme:
   palette:
     primary: teal
     accent: cyan
-    
+  logo: assets/images/TxFlow_Geometric_Logo_Icon_White_on_Transparent.png
+  favicon: assets/images/TxFlow_Geometric_Logo_Icon_100x100.png
+
+
 copyright: Copyright &copy; 2023 Transformationflow OÜ (16248096), Estonia
