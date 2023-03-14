@@ -8,5 +8,11 @@ theme:
     primary: teal
     accent: cyan
   logo: assets/images/TxFlow_Geometric_Logo_Icon_White_on_Transparent.png
+  favicon: assets/images/TxFlow_Geometric_Logo_Icon_100x100.png
+
+extra:
+  analytics:
+    provider: google
+    property: G-CKZS1MWV4V
 
 copyright: Copyright &copy; 2023 Transformationflow OÜ (16248096), Estonia. EU.
