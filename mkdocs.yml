@@ -15,4 +15,10 @@ extra:
     provider: google
     property: G-CKZS1MWV4V
 
+  social:
+  - icon: fontawesome/brands/medium
+    link: https://jim-barlow.medium.com/ 
+  - icon: fontawesome/solid/paper-plane
+    link: mailto:flowfunctions@transformationflow.io
+
 copyright: Copyright &copy; 2023 Transformationflow OÜ (16248096), Estonia.
