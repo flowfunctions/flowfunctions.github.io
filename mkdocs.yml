@@ -9,6 +9,8 @@ theme:
     accent: cyan
   logo: assets/images/transformationflow/TransformationFlow_Geometric_Logo_Icon_White_on_Transparent.png
   favicon: assets/images/transformationflow/TransformationFlow_Geometric_Logo_Icon_100x100.png
+  features:
+    - navigation.footer
 
 extra:
   analytics:
@@ -23,18 +25,18 @@ extra:
 
 nav:
   - Introduction: 'index.md'
-  - Framework:
-    - Overview: 'blank.md'
-    - Philosophy: 'blank.md'
-    - Approach: 'blank.md'
-    - Architecture: 'blank.md'    
-  - Getting Started: 
-    - Authorization: 'blank.md'
-    - Syntax: 'blank.md'
-  - Reference: 
-    - EXECUTE: 'blank.md'
-  - About Us: 
-    - Transformation Flow: 'about-us/transformationflow.md'  
+  # - Framework:
+  #  - Overview: 'blank.md'
+  #  - Philosophy: 'blank.md'
+  #  - Approach: 'blank.md'
+  #  - Architecture: 'blank.md'    
+  #- Getting Started: 
+  #  - Authorization: 'blank.md'
+  #  - Syntax: 'blank.md'
+  # - Reference: 
+  #   - EXECUTE: 'blank.md'
+  #- About Us: 
+  #  - Transformation Flow: 'about-us/transformationflow.md'  
 
 
 copyright: Copyright &copy; 2023 Transformationflow OÜ (16248096), Estonia.
